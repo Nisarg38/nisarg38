@@ -1,16 +1,15 @@
-## Hi there 👋
+Founder of T3 Chat.
 
-<!--
-**Nisarg38/nisarg38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Checkout my [Twitter](https://x.com/theo)
 
-Here are some ideas to get you started:
+## Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Products
+- **[Promptix](https://github.com/Vantxlab/promptix-python)** — A lightweight, powerful, local-first prompt management system
+
+
+### Research
+
+
+### Everything Else
+- **[GitLearn](https://github.com/Nisarg38/gitlearn)** — A Skill & Gh Action that learns from merged PRs and keeps your AI context files (claude.md, agents.md) fresh and in sync.
