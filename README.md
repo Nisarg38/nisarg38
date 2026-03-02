@@ -1,6 +1,6 @@
-Founder of T3 Chat.
+Founder of [Vantxlabs](https://vantxlab.com/).
 
-Checkout my [Twitter](https://x.com/theo)
+Checkout my [Twitter](https://x.com/nisarggpatel38)
 
 ## Current Projects
 
