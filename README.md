@@ -10,6 +10,6 @@ Checkout my [Twitter](https://x.com/nisarggpatel38)
 
 ### Research
 
-
 ### Everything Else
 - **[GitLearn](https://github.com/Nisarg38/gitlearn)** — A Skill & Gh Action that learns from merged PRs and keeps your AI context files (claude.md, agents.md) fresh and in sync.
+- **[Finny](https://github.com/Jaiminp007/finny)** — Claude Code for Financial Markets
